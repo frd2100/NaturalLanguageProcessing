@@ -9,9 +9,7 @@ public class Pipeline {
     private static StanfordCoreNLP stanfordCoreNlp;
     private static String propertiesName = "tokenize, ssplit, pos";
 
-    private Pipeline (){
-
-    }
+    private Pipeline (){}
     static {
         properties = new Properties();
         properties.setProperty("annotators", propertiesName);

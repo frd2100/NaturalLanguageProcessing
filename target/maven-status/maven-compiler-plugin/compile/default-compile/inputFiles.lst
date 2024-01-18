@@ -1,7 +1,10 @@
+/Users/federicoparrinello/IdeaProjects/NaturalLanguageProcessing/src/main/java/NER/controller/NERController.java
+/Users/federicoparrinello/IdeaProjects/NaturalLanguageProcessing/src/main/java/NER/model/Type.java
 /Users/federicoparrinello/IdeaProjects/NaturalLanguageProcessing/src/main/java/fp/SentenceRecognizer.java
 /Users/federicoparrinello/IdeaProjects/NaturalLanguageProcessing/src/main/java/fp/Tokenize.java
 /Users/federicoparrinello/IdeaProjects/NaturalLanguageProcessing/src/main/java/fp/Pipeline.java
 /Users/federicoparrinello/IdeaProjects/NaturalLanguageProcessing/src/main/java/NER/NerApplication.java
 /Users/federicoparrinello/IdeaProjects/NaturalLanguageProcessing/src/main/java/fp/Ner.java
+/Users/federicoparrinello/IdeaProjects/NaturalLanguageProcessing/src/main/java/NER/core/Pipeline.java
 /Users/federicoparrinello/IdeaProjects/NaturalLanguageProcessing/src/main/java/fp/Lemma.java
 /Users/federicoparrinello/IdeaProjects/NaturalLanguageProcessing/src/main/java/fp/POS.java

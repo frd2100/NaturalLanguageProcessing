@@ -1,7 +1,10 @@
 fp/Pipeline.class
 fp/POS.class
+NER/controller/NERController.class
 fp/SentenceRecognizer.class
+NER/model/Type.class
 fp/Tokenize.class
+NER/core/Pipeline.class
 NER/NerApplication.class
 fp/Lemma.class
 fp/Ner.class
